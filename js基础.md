@@ -1,12 +1,12 @@
 # js基础
 
 ---
-####1、数据类型
+#### 1、数据类型
 > js存在8种数据类型（7种原始类型和1种引用类型）
 > 数据类型：number、bigint、boolean、string、null、undefined、symbol
 > 引用类型：object
 
-####2、类型转换
+#### 2、类型转换
 > （1）字符串转换：可显式调用 `String(value)` 来将value转换为字符串类型
 > ```
 > typeof(String(false)) // string
